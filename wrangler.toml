@@ -3,7 +3,7 @@ name = "sg-server" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2025-12-28"
 [[routes]]
 pattern = "okepeb.web.id"
 custom_domain = true
@@ -19,3 +19,4 @@ custom_domain = true
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 UUID = "0141076a-c859-408d-8dd4-2f0f8a3413f0"
+9
